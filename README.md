@@ -14,7 +14,6 @@ A simple and interactive Streamlit web app that allows users to convert between 
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/yourusername/unit-converter-app.git
 cd unit-converter-app
 
